@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.brick{
+    background-color: red;
+    color: white;
+    padding:20px;
+}
+
+.box{
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container{
+    width: 450px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    padding-left: 10px;
+    padding-right: 40px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: yellow;
+
+}
+
+.container h2{
+    padding-bottom: 15px;
+ }
+
